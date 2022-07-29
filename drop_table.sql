@@ -1,0 +1,1 @@
+DROP TABLE @scratch.@cohort_table;
